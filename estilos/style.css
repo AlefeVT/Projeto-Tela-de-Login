@@ -130,14 +130,13 @@ form a.botao {
     border-radius: 5px;
     text-decoration: none;
     color: white;
+    padding-top: 8px;
 }
-
-
 
 form a.botao:hover {
     background-color: var(--cor-3);
 }
 
-form a.botao span {
-    font-size: 0.8em;
+i.material-icons {
+    font-size: 1em;
 }
